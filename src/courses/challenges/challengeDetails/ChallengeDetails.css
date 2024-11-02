@@ -1,0 +1,18 @@
+.challenge-page {
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  display: flex;
+  flex: 1;
+}
+
+.main-content {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 3%;
+  padding: 20px;
+  width: calc(100% - 220px);
+  height: 100%;
+}

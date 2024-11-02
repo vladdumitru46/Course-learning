@@ -1,0 +1,8 @@
+.theory {
+  flex: 0.4;
+  margin-left: 0%;
+  border: 1px solid #ddd;
+  background-color: black;
+  height: 400px;
+  overflow-y: auto; 
+}

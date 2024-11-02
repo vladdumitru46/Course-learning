@@ -1,0 +1,30 @@
+.nav.flex-column {
+    top: 12%;
+    left: 0;
+    width: 150px; 
+    background-color: black;
+    padding: 10px;
+    height: 50%; 
+}
+
+.nav-item {
+    margin-bottom: 10px;
+    color: #000;
+}
+
+.nav-link {
+    display: block;
+    padding: 10px;
+    color: #000;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.nav-link:hover {
+    background-color: blue; 
+}
+
+.nav-link.active {
+    background-color: #007bff; 
+    color: black;
+}
